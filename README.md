@@ -13,9 +13,9 @@ My passion lies in bridging the gap between high-level AI algorithms and high-fi
 
 ### 🎓 Education Journey
 
-| 🏫 Institution                                     | 🎓 Degree                    | 📅 Timeline    | 🌟 Key Focus                          |
-| :------------------------------------------------- | :--------------------------- | :------------- | :------------------------------------ |
-| **Beihang University (BUAA)** 🚀             | M.S. in Aeronautical Science | 2026 - Present | **DRL, Flight Control**         |
+| 🏫 Institution                             | 🎓 Degree                     | 📅 Timeline     | 🌟 Key Focus                     |
+| :---------------------------------------- | :--------------------------- | :------------- | :------------------------------ |
+| **Beihang University (BUAA)** 🚀           | M.S. in Aeronautical Science | 2026 - Present | **DRL, Flight Control**         |
 | **Harbin Engineering University (HEU)** ⚓️ | B.Eng. in Naval Architecture | 2022 - 2026    | **Ocean Engineering, Robotics** |
 
 ---
@@ -69,15 +69,6 @@ My passion lies in bridging the gap between high-level AI algorithms and high-fi
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZSHYC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSHYC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
 
 ---
 
