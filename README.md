@@ -1,40 +1,73 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:002060&height=200&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20coding%20space&descAlignY=51&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Algorithm%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Deep%20RL%20%7C%20Embodied%20AI%20%7C%203D%20Vision&descAlignY=55&descAlign=60"/>
 </div>
 
-### Hi there, I'm Shihao Zhang 👋
+### 👋 Hi there, I'm Shihao Zhang
 
-I am an incoming Master's student passionate about **Deep Reinforcement Learning (DRL)** and its applications in engineering. I enjoy exploring the intersection of traditional mechanics and modern AI.
+I am an incoming Master's student at **Beihang University**, specializing in **Deep Reinforcement Learning** and **Embodied AI**.
+My passion lies in bridging the gap between high-level AI algorithms and high-fidelity physics simulations.
 
-我是一名即将入学的硕士研究生。我对**深度强化学习**及其在工程领域的应用充满热情，致力于探索航空航天与现代人工智能的交叉领域。
-
----
-
-### 🎓 Education
-
-| **Degree** | **Institution**                                                                             | **Major / Focus**                | **Timeline** |
-| :--------------- | :------------------------------------------------------------------------------------------------ | :------------------------------------- | :----------------- |
-| **M.S.**   | **Beihang University (BUAA)** 🚀`<br>`_School of Aeronautical Science & Engineering_    | Deep Reinforcement Learning            | 2026 - Present     |
-| **B.Eng.** | **Harbin Engineering University (HEU)** ⚓️`<br>`_College of Shipbuilding Engineering_ | Naval Architecture & Ocean Engineering | 2022 - 2026        |
+我是 **Shihao Zhang**，一名即将入学的北航硕士研究生。我专注于**深度强化学习**与**计算机视觉**领域，致力于探索致力于探索航空航天与现代人工智能的交叉领域力。
 
 ---
 
-### 🔭 Research Interests
+### 🎓 Education Journey
 
-- **Core:** Deep Reinforcement Learning (DRL), Multi-Agent Systems.
-- **Applications:** Flight Control, Path Planning, Robotics.
-- **Tools:** PyTorch, OpenAI Gym, Mujoco.
+| 🏫 Institution                                     | 🎓 Degree                    | 📅 Timeline    | 🌟 Key Focus                          |
+| :------------------------------------------------- | :--------------------------- | :------------- | :------------------------------------ |
+| **Beihang University (BUAA)** 🚀             | M.S. in Aeronautical Science | 2026 - Present | **DRL, Flight Control**         |
+| **Harbin Engineering University (HEU)** ⚓️ | B.Eng. in Naval Architecture | 2022 - 2026    | **Ocean Engineering, Robotics** |
 
 ---
 
-### 🛠️ Tech Stack
+### 🔬 Research Arsenal
+
+#### 🤖 Intelligent Decision Making (DRL & LLM)
+
+* **Deep RL**: Proficient in **PPO, DQN** algorithms for continuous control tasks.
+* **LLM Fine-tuning**: Experience with **LoRA** for adapting Large Language Models.
+
+#### 🎮 Simulation & Robotics (Sim-to-Real)
+
+* **High-Fidelity Sim**: Expert in building environments using **Unreal Engine** & **AirSim**.
+* **Agent Training**: Bridging RL agents with complex physics engines for autonomous navigation/control.
+
+#### 👁️ 3D Vision & Perception
+
+* **Neural Rendering**: Familiar with **NeRF** (Neural Radiance Fields) and **3DGS** (3D Gaussian Splatting).
+* **Perception**: Point cloud processing and Stereo Vision perception.
+
+---
+
+### 🛠️ Technical Skills
 
 <p align="left">
+  <b>Languages:</b><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>Deep Learning & AI:</b><br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI_Gym-0081C8?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>Simulation & Vision:</b><br>
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/AirSim-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
+
+<p align="left">
+  <b>DevOps & Tools:</b><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -42,13 +75,13 @@ I am an incoming Master's student passionate about **Deep Reinforcement Learning
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your_GitHub_Username]&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your_GitHub_Username]&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZSHYC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSHYC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Connect
 
-- 📧 Email: [Your Email Address]
-- 💼 LinkedIn: [Your LinkedIn Profile Link]
+* 📧 **Email**: 17669757689@163.com
+* 📝 **English Level**: CET-6 (494) | Advanced Business English Certificate
