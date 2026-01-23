@@ -74,4 +74,3 @@ My passion lies in bridging the gap between high-level AI algorithms and high-fi
 ### 📫 Connect
 
 * 📧 **Email**: 17669757689@163.com
-* 📝 **English Level**: CET-6 (494) | Advanced Business English Certificate
