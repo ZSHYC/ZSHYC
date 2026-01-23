@@ -7,7 +7,6 @@
 I am an incoming Master's student at **Beihang University**, specializing in **Deep Reinforcement Learning** and **Coumputer Vision**.
 My passion lies in bridging the gap between high-level AI algorithms and high-fidelity physics simulations.
 
-我是 **Shihao Zhang**，一名即将入学的北航硕士研究生。我专注于**深度强化学习**与**计算机视觉**领域，致力于探索致力于探索航空航天与现代人工智能的交叉领域力。
 
 ---
 
