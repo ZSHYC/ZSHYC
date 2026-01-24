@@ -12,7 +12,7 @@ My passion lies in bridging the gap between high-level AI algorithms and high-fi
 
 ### 🎓 Education Journey
 
-| 🏫 Institution                             | 🎓 Degree                     | 📅 Timeline     | 🌟 Key Focus                     |
+|  Institution                             |  Degree                     |  Timeline     |  Key Focus                     |
 | :---------------------------------------- | :--------------------------- | :------------- | :------------------------------ |
 | **Beihang University (BUAA)**            | M.S. in Aeronautical Science | 2026 - Present | **DRL, Flight Control**         |
 | **Harbin Engineering University (HEU)**  | B.Eng. in Naval Architecture | 2022 - 2026    | **Ocean Robotics** |
