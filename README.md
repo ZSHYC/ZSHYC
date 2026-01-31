@@ -35,5 +35,3 @@ My passion lies in bridging the gap between high-level AI algorithms and high-fi
 
 * **Neural Rendering**: Familiar with **NeRF** (Neural Radiance Fields) and **3DGS** (3D Gaussian Splatting).
 * **Perception**: Point cloud processing and Stereo Vision perception.
-
----
