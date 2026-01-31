@@ -37,8 +37,3 @@ My passion lies in bridging the gap between high-level AI algorithms and high-fi
 * **Perception**: Point cloud processing and Stereo Vision perception.
 
 ---
-
-
-### 📫 Connect
-
-* 📧 **Email**: 17669757689@163.com
