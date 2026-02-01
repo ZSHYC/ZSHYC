@@ -5,7 +5,7 @@
 ### 👋 Hi there, I'm Shihao Zhang
 
 I am an incoming Master's student at **Beihang University**, specializing in **Deep Reinforcement Learning** and **Coumputer Vision**.
-My passion lies in bridging the gap between high-level AI algorithms and high-fidelity physics simulations. 1
+My passion lies in bridging the gap between high-level AI algorithms and high-fidelity physics simulations. 
 
 
 ---
