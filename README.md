@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Algorithm%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Deep%20RL%20%7C%20Embodied%20AI%20%7C%203D%20Vision&descAlignY=55&descAlign=60"/>
 </div>
 
-### 👋 Hi there, I'm Shihao Zhang
+### 👋 Hi there, I'm ZSHYC!
 
 I am an incoming Master's student at **Beihang University**, specializing in **Deep Reinforcement Learning** and **Coumputer Vision**.
 My passion lies in bridging the gap between high-level AI algorithms and high-fidelity physics simulations. 
